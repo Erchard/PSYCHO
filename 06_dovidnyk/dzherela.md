@@ -1,0 +1,45 @@
+# Джерела та їхня роль
+
+[До навігації](../README.md)
+
+Дата вебперевірки: 2 листопада 2026 року. Це цільовий добір для уточнення бібліотеки, **не систематичний огляд**. Для частини публікацій перевірено індексований опис або анотацію, а не повний текст. Не всі тези з оригінального чату незалежно перевірені; їхній статус позначено в розділах.
+
+## Першоджерело бібліотеки
+
+**C1. «Ефективність психотерапії».** Чат `6ae58574-d9b8-83ed-9b11-13116fe061a7`; доступні п’ять обмінів. [Архів](../90_arkhiv/eksport_dostupnoho_chatu.md). Це джерело походження ідей, не наукова публікація. Старі службові маркери цитат у ньому не є перевіреними посиланнями цієї бібліотеки.
+
+## Клінічні дані та настанови
+
+**S1. NICE. Depression in adults: treatment and management, NG222.** [Рекомендації](https://www.nice.org.uk/guidance/ng222/chapter/Recommendations). Клінічна настанова для дорослих із депресією; підтримує індивідуальний вибір допомоги та моніторинг. Не переноситься автоматично на всі розлади й вікові групи. Переглянуто доступний текст рекомендацій.
+
+**S2. Leichsenring F. et al. (2022). The efficacy of psychotherapies and pharmacotherapies for mental disorders in adults: an umbrella review and meta-analytic evaluation of recent meta-analyses.** [PubMed](https://pubmed.ncbi.nlm.nih.gov/35015359/). Узагальнення ефектів лікування; не рейтинг усіх шкіл і не доказ конкретного механізму. Перевірено бібліографічну сторінку та анотаційні відомості.
+
+**S3. National Institute of Mental Health. Mental Health Medications.** [Офіційний огляд](https://www.nimh.nih.gov/health/topics/mental-health-medications). Пояснення класів препаратів, різниць відповіді й потреби медичного супроводу. Освітній матеріал, не індивідуальна схема призначення. Переглянуто доступний текст.
+
+**S4. Freeman D. et al. (2017). The effects of improving sleep on mental health (OASIS): a randomised controlled trial with mediation analysis.** [PubMed](https://pubmed.ncbi.nlm.nih.gov/28888927/). Приклад рандомізованого дослідження сну й психічних симптомів у студентів. Перенесення на інші групи потребує перевірки. Перевірено індексований опис дослідження.
+
+**S5. Moncrieff J. et al. (2022). The serotonin theory of depression: a systematic umbrella review of the evidence.** [Molecular Psychiatry](https://www.nature.com/articles/s41380-022-01661-0). Стосується серотонінової гіпотези; не визначає сам по собі клінічну ефективність антидепресантів. Перевірено індексований опис і висновок.
+
+**S6. Is the serotonin hypothesis/theory of depression still relevant? Methodological reflections motivated by a recently published umbrella review.** [European Archives of Psychiatry and Clinical Neuroscience](https://link.springer.com/article/10.1007/s00406-022-01549-8). Методологічне обговорення меж висновків S5. Це критичний коментар, не нове випробування лікування. Перевірено доступний індексований фрагмент.
+
+**S7. Flückiger C. et al. (2018). The alliance in adult psychotherapy: A meta-analytic synthesis.** [PubMed](https://pubmed.ncbi.nlm.nih.gov/29792475/). Підтримує асоціацію альянсу з результатом; асоціація не доводить єдиної причинної ролі. Перевірено індексований анотаційний опис.
+
+## Свідомість і міжвидова перспектива
+
+**S8. Chalmers D. J. (1995). Facing Up to the Problem of Consciousness. Journal of Consciousness Studies, 2(3), 200–219.** [Авторський текст](https://consc.net/papers/facing.html). Первинне філософське джерело розрізнення функціональних проблем і проблеми досвіду. Не емпіричний доказ панпсихізму. Переглянуто доступний текст.
+
+**S9. Cogitate Consortium et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. Nature, 642, 133–142.** [Стаття](https://www.nature.com/articles/s41586-025-08888-1). Емпіричне зіставлення передбачень IIT і GNWT. Перевірено індексований опис; пряме відкриття через DOI було обмежене перенаправленням сайту. Повнотекстової незалежної експертизи тут не проведено.
+
+**S10. The New York Declaration on Animal Consciousness (19 April 2024).** [Декларація](https://sites.google.com/nyu.edu/nydeclaration/declaration). Первинний текст експертної позиції та етичного висновку. Не одне експериментальне дослідження, не доказ свідомості всього живого. Переглянуто текст декларації.
+
+**S11. The Neuroscience of Consciousness. Stanford Encyclopedia of Philosophy.** [Стаття](https://plato.stanford.edu/entries/consciousness-neuroscience/). Вторинне довідкове джерело для орієнтації в поняттях і програмах дослідження. Не використане як самостійний доказ клінічної ефективності. Перевірено індексований опис.
+
+## Сенс і традиції
+
+**S12. Alexander Batthyány. Logotherapy and Existential Analysis. Viktor Frankl Institute.** [Виклад підходу](https://www.viktorfrankl.org/logotherapy.html). Авторитетне джерело того, як школа представляє власні принципи; не незалежний систематичний огляд її ефективності. Переглянуто доступний текст.
+
+**S13. Daoism. Stanford Encyclopedia of Philosophy, Spring 2022 edition.** [Зафіксована редакція](https://plato.stanford.edu/archives/spr2022/entries/daoism/). Вторинне філософське джерело для обережного тлумачення у-вей. Не доказ психологічного ефекту практики. Перевірено індексований розділ про поняття.
+
+## Що варто додати під час подальшого розвитку
+
+Для кожного клінічного застосування потрібен окремий сучасний огляд конкретного протоколу й популяції. Для порівняння видів — первинні дослідження кожної здатності. Для традицій — конкретні тексти й академічні історичні дослідження, які враховують внутрішні відмінності. У поточній версії ці прогалини не заповнено вигаданою бібліографією.
