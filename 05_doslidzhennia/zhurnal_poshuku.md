@@ -30,3 +30,7 @@
 ## P04c — 2026-11-02
 
 Цільові запити: «site.esa.int Planck universe 13.8 billion cosmic microwave background 2018 results»; «site.nasa.gov elements stars carbon oxygen origin universe»; «site.nobelprize.org prigogine dissipative structures open systems 1977». Відкрито ESA Planck science highlights, NASA Star Lifecycle, анотацію arXiv 1807.06209. NobelPrize через web повернув 403; звичайний HTTPS-запит до відкритого PDF успішний. Прочитано текст перших п’яти сторінок через pypdf; повний PDF не включали до Git. Залишено вузький контекст, без параметричних космологічних тверджень і застосування термодинамічних екстремальних принципів до психіки.
+
+## 2026-11-02 — P05b
+
+Питання: як відділити звикання від інших змін реакції, а навчання — від еволюції; чи можна подавати походження нервової системи як установлену послідовність. Прочитано зазначені в [картках P05b](p05_evoliutsiia_i_navchannia.md) частини S26–S29. Для S26 і S29 використано відкриті основні тексти PMC; для S28 авторський PDF, сторінки 751–752. Попередня спроба отримати PDF S29 не дала придатного документа; використано PMC2430337. PDF S19 не отримано, статус не підвищено. Пошук Blount Borland Lenski 2008 historical contingency PMC та Schultz 2023 ancient gene linkages ctenophores sister PMC10232365. Включено суперницьку реконструкцію S28, а не лише підтвердження S27. Додатки, повний корпус повторень і виправлень не перевірені. Джерельні тексти в репозиторії не відтворювали.

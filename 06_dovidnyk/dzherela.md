@@ -58,3 +58,7 @@
 ## S23–S25 — фізичний контекст
 
 [Картки, посилання й глибина читання](../05_doslidzhennia/p04_fizychnyi_kontekst.md): S23 — офіційні результати ESA Planck та анотація Planck 2018 VI; S24 — NASA Star Lifecycle; S25 — Prigogine, нобелівська лекція 1977 року, текстові частини сторінок 1–5 PDF.
+
+## S26–S29 — еволюція й навчання
+
+[Бібліографія, межі читання та картки](../05_doslidzhennia/p05_evoliutsiia_i_navchannia.md): S26 — Boisseau et al. 2016, DOI 10.1098/rspb.2016.0446; S27 — Schultz et al. 2023, DOI 10.1038/s41586-023-05936-6; S28 — Steenwyk & King 2025, DOI 10.1126/science.adw9456; S29 — Blount et al. 2008, DOI 10.1073/pnas.0803151105.
