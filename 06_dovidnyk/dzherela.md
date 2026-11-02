@@ -47,3 +47,7 @@
 ## Походження світу та життя — S14–S18
 
 Картки й точні межі читання: [P04](../05_doslidzhennia/p04_pokhodzhennia_zhyttia.md). S14 — CfA, ранній Всесвіт; S15 — NASA, робоче визначення життя; S16 — Patel et al. 2015, DOI 10.1038/nchem.2202; S17 — Adamala & Szostak 2013, DOI 10.1126/science.1241888; S18 — Hudson et al. 2020, DOI 10.1073/pnas.2002659117. Це цільовий добір, не повний сучасний огляд.
+
+## Міжвидове порівняння — S19–S22
+
+[P05a: картки джерел і межі читання](../05_doslidzhennia/p05_mizhvydy.md). S19 — Bielecki et al., 2023, DOI 10.1016/j.cub.2023.08.056; S20 — Ben-Ami Bartal et al., 2014, DOI 10.7554/eLife.01385; S21 — Silberberg et al., 2014, DOI 10.1007/s10071-013-0692-1; S22 — Cox & Reichel, DOI 10.1038/s41386-019-0572-8. Детальні бібліографічні дані S22 перед фінальним виданням ще звірити.
