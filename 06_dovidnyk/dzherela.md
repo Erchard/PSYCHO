@@ -62,3 +62,7 @@
 ## S26–S29 — еволюція й навчання
 
 [Бібліографія, межі читання та картки](../05_doslidzhennia/p05_evoliutsiia_i_navchannia.md): S26 — Boisseau et al. 2016, DOI 10.1098/rspb.2016.0446; S27 — Schultz et al. 2023, DOI 10.1038/s41586-023-05936-6; S28 — Steenwyk & King 2025, DOI 10.1126/science.adw9456; S29 — Blount et al. 2008, DOI 10.1073/pnas.0803151105.
+
+## S30–S32 — тіло й пам’ять
+
+[Картки та межі читання P06a](../05_doslidzhennia/p06_tilo_i_pamiat.md): S30 — Yoo et al. 2007, DOI 10.1038/nn1851; S31 — Brunet et al. 2018, DOI 10.1176/appi.ajp.2017.17050481; S32 — Roullet et al. 2021, DOI 10.1038/s41386-021-00984-w. Перевірено повні анотації, не повні статті.
