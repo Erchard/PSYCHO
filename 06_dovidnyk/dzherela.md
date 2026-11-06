@@ -102,3 +102,7 @@ Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глиби�
 ## S66–S68 — метафори та інтерпретація
 
 [Картки й межі читання](../04_sens_i_kultura/metafory_karty_i_symvoly.md): S66 — Atıcı et al. 2026, DOI 10.14744/JCBPR.2026.77629; S67 — Kozlova et al. 2022, DOI 10.12731/2658-4034-2022-13-6-181-195; S68 — Muschalla/Schönborn 2021, DOI 10.1002/cpp.2567. Анотаційна перевірка, не повний аудит.
+
+## S69–S70 — сон і біль
+
+[Картки](../05_doslidzhennia/p06_son_i_bil.md): S69 — IASP, визначення болю й примітки; S70 — NHLBI, How Sleep Affects Your Health. Там само уточнено читання S4/OASIS; номер джерела збережено.
