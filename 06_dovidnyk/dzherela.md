@@ -86,3 +86,7 @@ Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глиби�
 ## S44–S47 — еволюційна невідповідність
 
 [Картки та глибина читання](../02_biolohiia/paleopsykholohiia_i_nevidpovidnist.md): S44 — Smithsonian, Homo sapiens; S45 — Villmoare et al. 2015, DOI 10.1126/science.aaa1343; S46 — Chang et al. 2015, DOI 10.1073/pnas.1418490112; S47 — Mind the gap, 2024, DOI 10.1016/j.heliyon.2024.e34997. Історичні, експериментальні й психометричні висновки не змішувати.
+
+## S48–S55 — спільноти й ритуали
+
+[Бібліографія та межі читання](../04_sens_i_kultura/davni_spilnoty_i_rytualy.md): Hill 2011; Lindenfors et al. 2021; Walker et al. 2010; Page et al. 2021; Fujia/Nature 2025; Liu et al. 2018; Arranz-Otaegui et al. 2018; Sayette et al. 2012. Не всі повні тексти прочитані; вузький статус кожного джерела збережено.
