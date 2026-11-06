@@ -70,3 +70,7 @@
 ## S33–S36 — єдність досвіду
 
 [Картки й глибина читання](../03_svidomist/mezhi_ya_i_spilnyi_dosvid.md): S33 — Sperry, Nobel Lecture 1981; S34 — Pinto et al. 2017, DOI 10.1093/brain/aww358; S35 — Spencer et al. 2018, DOI 10.1523/JNEUROSCI.3489-17.2018; S36 — Jiang et al. 2019, DOI 10.1038/s41598-019-41895-7.
+
+## S37–S39 — перепрограмування та часовий горизонт
+
+[Картки](../04_sens_i_kultura/dovholittia_i_psykholohiia.md): S37 — Takahashi & Yamanaka 2006, DOI 10.1016/j.cell.2006.07.024; S38 — повідомлення Life Biosciences 2026-10-08 про ER-100, не незалежна клінічна публікація; S39 — Carstensen & Fredrickson 1998, DOI 10.1037//0278-6133.17.6.494. Глибина читання зазначена в картках.
