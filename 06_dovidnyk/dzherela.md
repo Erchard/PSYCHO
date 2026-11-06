@@ -78,3 +78,7 @@
 ## S40–S42 — праця, забезпечення й автоматизація
 
 [Картки та межі](../04_sens_i_kultura/svit_bez_oboviazkovoi_pratsi.md): S40 — Creed & Macintyre 2001, PMID11605826; S41 — Kela, Evaluation of the Finnish Basic Income Experiment, 2020; S42 — ILO, Generative AI and jobs: A 2025 update. Це опора для розрізнень, не дані про суспільство повної автоматизації.
+
+## S43 — модель регуляції
+
+Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глибина читання](../05_doslidzhennia/p06_rehuliatsiia.md). Теоретичний аналіз для глави 03.
