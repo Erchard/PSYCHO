@@ -98,3 +98,7 @@ Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глиби�
 ## S62–S65 — ресурси та праця
 
 [Картки й глибина перевірки](../04_sens_i_kultura/hroshi_pratsia_i_dopomoha.md): S62 — Haushofer/Mudida/Shapiro, NBER28106, авторська редакція 2023; S63 — Blattman et al., десятирічне спостереження STYL; S64 — Frederick/VanderWeele 2019, DOI 10.1371/journal.pone.0212208; S65 — WHO, Mental health at work.
+
+## S66–S68 — метафори та інтерпретація
+
+[Картки й межі читання](../04_sens_i_kultura/metafory_karty_i_symvoly.md): S66 — Atıcı et al. 2026, DOI 10.14744/JCBPR.2026.77629; S67 — Kozlova et al. 2022, DOI 10.12731/2658-4034-2022-13-6-181-195; S68 — Muschalla/Schönborn 2021, DOI 10.1002/cpp.2567. Анотаційна перевірка, не повний аудит.
