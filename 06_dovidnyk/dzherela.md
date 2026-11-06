@@ -90,3 +90,7 @@ Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глиби�
 ## S48–S55 — спільноти й ритуали
 
 [Бібліографія та межі читання](../04_sens_i_kultura/davni_spilnoty_i_rytualy.md): Hill 2011; Lindenfors et al. 2021; Walker et al. 2010; Page et al. 2021; Fujia/Nature 2025; Liu et al. 2018; Arranz-Otaegui et al. 2018; Sayette et al. 2012. Не всі повні тексти прочитані; вузький статус кожного джерела збережено.
+
+## S56–S61 — порівняння допомоги
+
+[Картки](../02_biolohiia/liky_psykhoterapiia_i_psykhodeliky.md): S56 — Cuijpers et al. 2020, DOI 10.1002/wps.20701; S57 — NICE NG116; S58 — Carhart-Harris et al. 2021, DOI 10.1056/NEJMoa2032994; S59 — NCCIH, псилоцибін; S60 — DailyMed, SPRAVATO; S61 — NIMH, Psychotherapies. S1 і S3 повторно використані без дублювання номерів.
