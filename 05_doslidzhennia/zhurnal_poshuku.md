@@ -38,3 +38,7 @@
 ## 2026-11-03 — P06a
 
 Запити: sleep deprivation hippocampal encoding Yoo 2007; memory reconsolidation propranolol PTSD randomized trial Roullet 2021. На PubMed прочитано повні анотації PMID17293859, PMID29325446 та PMID33612830, звірено бібліографію. Добір навмисно включає різні результати клінічних випробувань. Пошукові результати оглядів не використано як прочитані докази. [Пакет і точні межі](p06_tilo_i_pamiat.md). Повні тексти, протоколи й сукупний сучасний клінічний висновок ще потребують перевірки.
+
+## 2026-11-06 — межі «я»
+
+Шукали Sperry Nobel lecture 1981, split brain divided perception undivided consciousness Pinto 2017, BrainNet 2019, enteric motor patterns Spencer 2018. Прочитані частини точно зазначені в [картках S33–S36](../03_svidomist/mezhi_ya_i_spilnyi_dosvid.md). Вебвідкриття лекції дало 403; публічний HTML отримано звичайним запитом. Нові пошукові есе про кишкову свідомість не використано як емпіричні докази. Про TikTok окремий огляд не проведено.

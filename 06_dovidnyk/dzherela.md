@@ -66,3 +66,7 @@
 ## S30–S32 — тіло й пам’ять
 
 [Картки та межі читання P06a](../05_doslidzhennia/p06_tilo_i_pamiat.md): S30 — Yoo et al. 2007, DOI 10.1038/nn1851; S31 — Brunet et al. 2018, DOI 10.1176/appi.ajp.2017.17050481; S32 — Roullet et al. 2021, DOI 10.1038/s41386-021-00984-w. Перевірено повні анотації, не повні статті.
+
+## S33–S36 — єдність досвіду
+
+[Картки й глибина читання](../03_svidomist/mezhi_ya_i_spilnyi_dosvid.md): S33 — Sperry, Nobel Lecture 1981; S34 — Pinto et al. 2017, DOI 10.1093/brain/aww358; S35 — Spencer et al. 2018, DOI 10.1523/JNEUROSCI.3489-17.2018; S36 — Jiang et al. 2019, DOI 10.1038/s41598-019-41895-7.
