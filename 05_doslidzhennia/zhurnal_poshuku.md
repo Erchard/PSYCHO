@@ -46,3 +46,7 @@
 ## 2026-11-06 — омолодження й майбутнє
 
 Пошук ER-100 clinical trial 2026 привів до пресрелізу Life Biosciences від 8 жовтня 2026 року; прочитано вступ і розділи спостережень. Реєстр NCT07290244 повернув вебоболонку, повний протокол не прочитано. Додатково прочитано анотації PMID16904174 та PMID9848799. Психологічні сценарії позначені гіпотезами. [Повний запис](../04_sens_i_kultura/dovholittia_i_psykholohiia.md).
+
+## 2026-11-06 — світ без обов’язкової праці
+
+Пошук unemployment latent functions employment mental health; Finnish basic income evaluation; ILO GenAI exposure. Прочитано повну анотацію PMID11605826, Abstract офіційного звіту Kela 2020 та вебвиклад ILO 2025. [Сценарій і межі перенесення](../04_sens_i_kultura/svit_bez_oboviazkovoi_pratsi.md). Не видавати теперішнє безробіття за експеримент із загальним достатком.

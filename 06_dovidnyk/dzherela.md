@@ -74,3 +74,7 @@
 ## S37–S39 — перепрограмування та часовий горизонт
 
 [Картки](../04_sens_i_kultura/dovholittia_i_psykholohiia.md): S37 — Takahashi & Yamanaka 2006, DOI 10.1016/j.cell.2006.07.024; S38 — повідомлення Life Biosciences 2026-10-08 про ER-100, не незалежна клінічна публікація; S39 — Carstensen & Fredrickson 1998, DOI 10.1037//0278-6133.17.6.494. Глибина читання зазначена в картках.
+
+## S40–S42 — праця, забезпечення й автоматизація
+
+[Картки та межі](../04_sens_i_kultura/svit_bez_oboviazkovoi_pratsi.md): S40 — Creed & Macintyre 2001, PMID11605826; S41 — Kela, Evaluation of the Finnish Basic Income Experiment, 2020; S42 — ILO, Generative AI and jobs: A 2025 update. Це опора для розрізнень, не дані про суспільство повної автоматизації.
