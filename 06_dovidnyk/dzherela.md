@@ -82,3 +82,7 @@
 ## S43 — модель регуляції
 
 Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глибина читання](../05_doslidzhennia/p06_rehuliatsiia.md). Теоретичний аналіз для глави 03.
+
+## S44–S47 — еволюційна невідповідність
+
+[Картки та глибина читання](../02_biolohiia/paleopsykholohiia_i_nevidpovidnist.md): S44 — Smithsonian, Homo sapiens; S45 — Villmoare et al. 2015, DOI 10.1126/science.aaa1343; S46 — Chang et al. 2015, DOI 10.1073/pnas.1418490112; S47 — Mind the gap, 2024, DOI 10.1016/j.heliyon.2024.e34997. Історичні, експериментальні й психометричні висновки не змішувати.
