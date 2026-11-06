@@ -94,3 +94,7 @@ Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глиби�
 ## S56–S61 — порівняння допомоги
 
 [Картки](../02_biolohiia/liky_psykhoterapiia_i_psykhodeliky.md): S56 — Cuijpers et al. 2020, DOI 10.1002/wps.20701; S57 — NICE NG116; S58 — Carhart-Harris et al. 2021, DOI 10.1056/NEJMoa2032994; S59 — NCCIH, псилоцибін; S60 — DailyMed, SPRAVATO; S61 — NIMH, Psychotherapies. S1 і S3 повторно використані без дублювання номерів.
+
+## S62–S65 — ресурси та праця
+
+[Картки й глибина перевірки](../04_sens_i_kultura/hroshi_pratsia_i_dopomoha.md): S62 — Haushofer/Mudida/Shapiro, NBER28106, авторська редакція 2023; S63 — Blattman et al., десятирічне спостереження STYL; S64 — Frederick/VanderWeele 2019, DOI 10.1371/journal.pone.0212208; S65 — WHO, Mental health at work.
