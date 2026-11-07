@@ -173,3 +173,5 @@
 [Глава 09: емоції, бажання і суперечливий вибір](09_rukopys/13_hlava_09_emotsii.md) продовжує єдиний аргумент; [джерела та внутрішня перевірка](05_doslidzhennia/p06_emotsii_i_vybir.md).
 
 [Глава 10: особистість і життєва історія](09_rukopys/14_hlava_10_osobystist.md) · [Джерела](05_doslidzhennia/p06_osobystist.md).
+
+[Глава 11: чому є хтось, хто відчуває](09_rukopys/15_hlava_11_svidomist.md) · [Джерела](05_doslidzhennia/p06_svidomist.md).
