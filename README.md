@@ -175,3 +175,5 @@
 [Глава 10: особистість і життєва історія](09_rukopys/14_hlava_10_osobystist.md) · [Джерела](05_doslidzhennia/p06_osobystist.md).
 
 [Глава 11: чому є хтось, хто відчуває](09_rukopys/15_hlava_11_svidomist.md) · [Джерела](05_doslidzhennia/p06_svidomist.md).
+
+[Глава 12: сенс і спільні світи](09_rukopys/16_hlava_12_sens.md) · [Джерела та межі культурних інтерпретацій](05_doslidzhennia/p06_sens_i_tradytsii.md).
