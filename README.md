@@ -245,3 +245,7 @@
 ## Редакційні матеріали
 
 - [Робочий словник термінів](00_metodolohiia/slovnyk_terminiv.md)
+
+## Редакційні матеріали
+
+- [Аудит термінів і переходів](00_metodolohiia/audit_terminiv_i_perekhodiv.md)
