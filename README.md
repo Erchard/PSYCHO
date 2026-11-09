@@ -249,3 +249,8 @@
 ## Редакційні матеріали
 
 - [Аудит термінів і переходів](00_metodolohiia/audit_terminiv_i_perekhodiv.md)
+
+
+## Читати актуальний корпус
+
+[Вступ і 27 глав](09_rukopys/00_chytaty_knyhu.md) · [Фактичний стан випуску](00_metodolohiia/vypuskovyi_komplekt.md) · [Твердження для оновлення](00_metodolohiia/tverdzhennia_dlia_onovlennia.md).
