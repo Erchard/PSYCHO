@@ -262,3 +262,7 @@
 ## Єдина читацька версія
 
 [Книга одним файлом — коротка чернетка](KNYHA_CHERNETKA.md). [Перевірені клінічні опори та межі аудиту](05_doslidzhennia/audit_klinichnykh_opor.md).
+
+## Поточна версія для читання
+
+[Єдина коротка чернетка](KNYHA_CHERNETKA.md) · [Актуальний стан і обмеження](00_metodolohiia/vypuskovyi_komplekt.md) · [Інвентар посилань](05_doslidzhennia/inventar_posylan_rukopysu.md). Редакційний прохід виконано; повний джерельний аудит залишається відкритим.

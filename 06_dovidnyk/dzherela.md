@@ -106,3 +106,14 @@ Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глиби�
 ## S69–S70 — сон і біль
 
 [Картки](../05_doslidzhennia/p06_son_i_bil.md): S69 — IASP, визначення болю й примітки; S70 — NHLBI, How Sleep Affects Your Health. Там само уточнено читання S4/OASIS; номер джерела збережено.
+
+## Джерела змістового поглиблення, перевірка 2026-11-09
+
+- [Harvard Center on the Developing Child: Serve and Return](https://developingchild.harvard.edu/key-concept/serve-and-return/). Прочитано пояснювальні розділи про чуйні взаємодії; використано в главі 10. Первинні роботи за посиланнями окремо не перевірено.
+- [Zhao et al., 2025, DOI 10.1111/aphw.70067](https://pubmed.ncbi.nlm.nih.gov/40910958/). Прочитано анотацію РКД, 865 учасників, 28 днів, лист очікування. Глава 22 зберігає ці межі.
+- [Smithsonian: Homo sapiens](https://humanorigins.si.edu/evidence/human-fossils/species/homo-sapiens). Прочитано огляд часових масштабів; джерело глави 4, не доказ універсальної соціальної організації.
+- [NIMH: Psychotherapies](https://www.nimh.nih.gov/health/topics/psychotherapies). Прочитано визначення, елементи й вибір фахівця; опора глави 19.
+- [NIMH: Understanding Psychosis](https://www.nimh.nih.gov/health/publications/understanding-psychosis). Прочитано основний текст; використано для виправлення глави 18 і прикладу координованої допомоги в 19.
+- [WHO: Health care for women subjected to intimate partner violence or sexual violence](https://www.who.int/publications/i/item/WHO-RHR-14.26). Прочитано опис видання. Повний посібник не заявлений прочитаним.
+
+Бібліографічні входи, які не є підтвердженими змістовими опорами: огляд WHO про мистецтво (перевірено сторінку видання), Fedorenko і Varley (доступ до повного тексту обмежено). Повний інвентар URL рукопису: [інвентар посилань](../05_doslidzhennia/inventar_posylan_rukopysu.md).
