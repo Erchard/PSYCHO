@@ -254,3 +254,7 @@
 ## Читати актуальний корпус
 
 [Вступ і 27 глав](09_rukopys/00_chytaty_knyhu.md) · [Фактичний стан випуску](00_metodolohiia/vypuskovyi_komplekt.md) · [Твердження для оновлення](00_metodolohiia/tverdzhennia_dlia_onovlennia.md).
+
+## Змістова готовність
+
+[Карта прогалин і порядок завершення](00_metodolohiia/karta_prohalyn.md). Наявність усіх 27 номерів глав означає завершення каркаса, а не всіх змістових робіт.
