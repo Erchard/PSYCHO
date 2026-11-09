@@ -182,3 +182,8 @@
 
 - [Глава 13: Як утворюється пастка](09_rukopys/17_hlava_13_pastka.md)
 - [P07: Походження, підтримання й причинні моделі](05_doslidzhennia/p07_pastky_i_prychyny.md)
+
+## Нові матеріали
+
+- [Глава 14: Що може змінити допомога](09_rukopys/18_hlava_14_dopomoha.md)
+- [P08: Втручання](05_doslidzhennia/p08_vtruchannia.md)
