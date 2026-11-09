@@ -177,3 +177,8 @@
 [Глава 11: чому є хтось, хто відчуває](09_rukopys/15_hlava_11_svidomist.md) · [Джерела](05_doslidzhennia/p06_svidomist.md).
 
 [Глава 12: сенс і спільні світи](09_rukopys/16_hlava_12_sens.md) · [Джерела та межі культурних інтерпретацій](05_doslidzhennia/p06_sens_i_tradytsii.md).
+
+## Нові матеріали
+
+- [Глава 13: Як утворюється пастка](09_rukopys/17_hlava_13_pastka.md)
+- [P07: Походження, підтримання й причинні моделі](05_doslidzhennia/p07_pastky_i_prychyny.md)
