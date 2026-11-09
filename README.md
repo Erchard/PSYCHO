@@ -204,3 +204,8 @@
 ## Нові матеріали
 
 - [Глава 18: Коли потрібна термінова допомога](09_rukopys/22_hlava_18_kryza.md)
+
+## Нові матеріали
+
+- [Глава 19: Професійна допомога](09_rukopys/23_hlava_19_profesiina_dopomoha.md)
+- [P10: Професійна допомога](05_doslidzhennia/p10_profesiina_dopomoha.md)
