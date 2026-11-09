@@ -187,3 +187,7 @@
 
 - [Глава 14: Що може змінити допомога](09_rukopys/18_hlava_14_dopomoha.md)
 - [P08: Втручання](05_doslidzhennia/p08_vtruchannia.md)
+
+## Нові матеріали
+
+- [Глава 15: Що бачать різні школи](09_rukopys/19_hlava_15_shkoly.md)
