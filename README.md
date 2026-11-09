@@ -209,3 +209,7 @@
 
 - [Глава 19: Професійна допомога](09_rukopys/23_hlava_19_profesiina_dopomoha.md)
 - [P10: Професійна допомога](05_doslidzhennia/p10_profesiina_dopomoha.md)
+
+## Нові матеріали
+
+- [Глава 20: Чого варто навчати кожну людину](09_rukopys/24_hlava_20_osvita.md)
