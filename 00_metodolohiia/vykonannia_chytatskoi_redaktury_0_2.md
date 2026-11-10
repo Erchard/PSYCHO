@@ -1,6 +1,6 @@
 # Виконання читацької редактури 0.2
 
-Дата: 2026-11-09. [Аудит](audit_chytatskoho_vplyvu_2026_11_09.md) · [Рекомендації](rekomendatsii_tsikavist_bez_manipuliatsii.md) · [Книга](../KNYHA_CHERNETKA.md).
+Дата: 2026-11-09. [Аудит; історична версія](https://github.com/Erchard/PSYCHO/blob/83194ecbad6ee08cd2b974c16be391822f0df052/00_metodolohiia/audit_chytatskoho_vplyvu_2026_11_09.md) · [Рекомендації; історична версія](https://github.com/Erchard/PSYCHO/blob/83194ecbad6ee08cd2b974c16be391822f0df052/00_metodolohiia/rekomendatsii_tsikavist_bez_manipuliatsii.md) · [Книга](../KNYHA_CHERNETKA.md).
 
 **Доручення користувача:** виконати всі зауваження та пропозиції обох звітів. Це дозвіл на змістову редактуру рукопису. Конкретні художні та композиційні рішення — редакційні рішення асистента [М]; суспільна результативність не оголошується доведеною.
 

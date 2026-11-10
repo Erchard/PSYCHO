@@ -116,7 +116,7 @@ Yi T.-M. et al. (2000), DOI 10.1073/pnas.97.9.4649. [Картка й глиби�
 - [NIMH: Understanding Psychosis](https://www.nimh.nih.gov/health/publications/understanding-psychosis). Прочитано основний текст; використано для виправлення глави 18 і прикладу координованої допомоги в 19.
 - [WHO: Health care for women subjected to intimate partner violence or sexual violence](https://www.who.int/publications/i/item/WHO-RHR-14.26). Прочитано опис видання. Повний посібник не заявлений прочитаним.
 
-Бібліографічні входи, які не є підтвердженими змістовими опорами: огляд WHO про мистецтво (перевірено сторінку видання), Fedorenko і Varley (доступ до повного тексту обмежено). Повний інвентар URL рукопису: [інвентар посилань](../05_doslidzhennia/inventar_posylan_rukopysu.md).
+Бібліографічні входи, які не є підтвердженими змістовими опорами: огляд WHO про мистецтво (перевірено сторінку видання), Fedorenko і Varley (доступ до повного тексту обмежено). Повний інвентар URL рукопису: [інвентар посилань; історична версія](https://github.com/Erchard/PSYCHO/blob/83194ecbad6ee08cd2b974c16be391822f0df052/05_doslidzhennia/inventar_posylan_rukopysu.md).
 
 ## Доповнення редакції 0.2
 

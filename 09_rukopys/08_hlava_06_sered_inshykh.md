@@ -1,6 +1,6 @@
 # 06. Серед інших
 
-[Зміст](00_anotovanyi_zmist.md) · [Попередня глава](07_hlava_05_navchannia.md) · [Наступна глава](10_hlava_07_tilo.md)
+[Зміст](00_chytaty_knyhu.md) · [Попередня глава](07_hlava_05_navchannia.md) · [Наступна глава](10_hlava_07_tilo.md)
 
 Повідомлення прочитане. Відповіді немає.
 
